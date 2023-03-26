@@ -12,7 +12,7 @@ class SuspectInfomation extends Model
     protected $fillable = [
         'firstname',
         'lastname',
-        'unitId',
+         'unitId',
        
     ];
 
